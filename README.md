@@ -1,2 +1,3 @@
-# TheDualEchoOfPAndNP
-游戏《P与NP的双重回响》开发库
+# The Dual Echo of P and NP
+# P与NP的双重回响
+
