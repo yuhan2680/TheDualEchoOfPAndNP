@@ -2,6 +2,10 @@
 
 这是一个P=NP已经被证明，所有的NP问题都可以被归约为P类问题的时代。主角白爻在去地球研学的过程中意外遇到了讨厌P/NP研究的妹妹白沫。由此，一个围绕着P和NP相关的故事就此拉开帷幕......
 
+## 游戏剧情
+
+[第一章：荧惑启程](https://github.com/yuhan2680/TheDualEchoOfPAndNP/blob/main/script/zh-hans/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9A%E8%8D%A7%E6%83%91%E5%90%AF%E7%A8%8B.md)
+
 ## 游戏设定
 
 **P-Knapsack算法**
