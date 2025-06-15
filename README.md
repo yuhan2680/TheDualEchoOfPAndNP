@@ -6,6 +6,8 @@
 
 [第一章：荧惑启程](https://github.com/yuhan2680/TheDualEchoOfPAndNP/blob/main/script/zh-hans/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9A%E8%8D%A7%E6%83%91%E5%90%AF%E7%A8%8B.md)
 
+[第二章：白色邂逅](https://github.com/yuhan2680/TheDualEchoOfPAndNP/blob/main/script/zh-hans/%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%9A%E7%99%BD%E8%89%B2%E9%82%82%E9%80%85.md)
+
 ## 游戏设定
 
 **P-Knapsack算法**
