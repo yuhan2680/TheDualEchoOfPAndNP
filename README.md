@@ -6,7 +6,9 @@
 
 [序幕：荧惑启程](https://github.com/yuhan2680/TheDualEchoOfPAndNP/blob/main/script/zh-hans/序幕：荧惑启程.md)
 
-[第一章：白色邂逅](https://github.com/yuhan2680/TheDualEchoOfPAndNP/blob/main/script/zh-hans/第一章：白色邂逅.md)
+[第一章：陌生引力](https://github.com/yuhan2680/TheDualEchoOfPAndNP/blob/main/script/zh-hans/第一章：陌生引力.md)
+
+[第二章：白色邂逅](https://github.com/yuhan2680/TheDualEchoOfPAndNP/blob/main/script/zh-hans/第二章：白色邂逅.md)
 
 ## 游戏设定
 
